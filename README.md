@@ -1,2 +1,2 @@
 # fevicol
-2D Game engine using LWJGL
+Repo for a 2D Game engine using LWJGL
